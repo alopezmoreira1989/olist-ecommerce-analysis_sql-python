@@ -27,8 +27,9 @@ Jupyter Notebook — for interactive exploration and presentation.
 
 ## 📂 Dataset
 
-The dataset was originally published by Olist on Kaggle
-.
+The dataset was originally published by Olist on Kaggle.
+<img width="3000" height="2325" alt="image" src="https://github.com/user-attachments/assets/7a1711a8-067e-4cf6-bf0b-4e025ced6fa2" />
+
 It includes multiple tables:
 
 orders — order lifecycle timestamps
