@@ -1,4 +1,7 @@
 # 🛒 Olist E-Commerce Data Analysis (SQL + Python)
+
+![olist](https://github.com/user-attachments/assets/51e1a4f6-97e0-4a10-b97b-fc9430ba18a2)
+
 ## Overview
 
 This project analyzes the Olist E-Commerce Dataset, which contains nearly 100,000 orders from March 2016 to August 2018.
