@@ -93,7 +93,11 @@ Explore SQL queries or open Jupyter Notebooks to reproduce the analysis.
 
 ## 📊 Example Visuals
 
-(Add screenshots or charts here — e.g. delivery time by state, payment trends, etc.)
+![top 10 items](https://github.com/user-attachments/assets/51c61d29-78d0-4950-b538-d73be01eaa99)
+![order_distribution_non_delivered](https://github.com/user-attachments/assets/0209e480-1d3c-4765-b4b0-a0e87451483e)
+![avg_delivery_times_delays_by_state](https://github.com/user-attachments/assets/ad6f8a25-bef1-43c7-a143-972edef7b2c4)
+![order_status_by_year](https://github.com/user-attachments/assets/0b7483fb-b011-4623-b989-b9dd61201d14)
+![Brazil_customers_sellers](https://github.com/user-attachments/assets/ad767294-35e1-4595-a640-c8a00e08a425)
 
 ## 🧩 Future Improvements
 
